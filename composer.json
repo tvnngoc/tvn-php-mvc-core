@@ -1,0 +1,15 @@
+{
+    "name": "tvn/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "Tvn\\PhpMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tvngoc0109",
+            "email": "tvngoc0109@gmail.com"
+        }
+    ],
+    "require": {}
+}
