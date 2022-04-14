@@ -1,5 +1,5 @@
 {
-    "name": "tvn/php-mvc-core",
+    "name": "tvngoc/php-mvc-core",
     "autoload": {
         "psr-4": {
             "Tvn\\PhpMvcCore\\": "src/"
